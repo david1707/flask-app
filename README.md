@@ -1,7 +1,7 @@
 ## 1. Install Flask dependencies
 
     pipenv shell
-    pip install flask
+    pipenv install flask
 
 ## 2. Run it
 
